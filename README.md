@@ -21,4 +21,5 @@ The (a) is the segmentation of this code and (b) is the ground truth.
 The Final `dice_coef` is `0.957`
 # ToDo
 ·Add Fluid segmentation
+
 ·Add the implementation of UNpooling with pooling indics
